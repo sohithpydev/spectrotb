@@ -1,0 +1,8 @@
+# Ignore large dataset files
+output/data/
+output/plots/
+output/reports/
+*output/models/benchmark*
+*output/models/catboost*
+__pycache__/
+.DS_Store
