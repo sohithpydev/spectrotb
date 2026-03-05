@@ -140,19 +140,27 @@ def contact_page():
     
     st.markdown("""
     ### Development Team
-    This web application and the underlying continuous line segment baseline correction clinical pipeline were developed by:
+    This web application and the underlying machine-learning driven clinical pipeline were developed by:
     
-    * **Sohith Reddy** (Developer & Ex-Research Intern)
-    * **Professor Wen-Ping Peng** (Principal Investigator)
+    * **Sohith Reddy** (Developer & Ex-Research Intern)  
+      Personal Website: https://sohithpydev.github.io/sohith/  
+      Email: sohith.bme@gmail.com
+    
+    * **Professor Wen-Ping Peng** (Principal Investigator)  
+      Email: pengw@gms.ndhu.edu.tw
+    
     * **Dr. Avinash Patil** (Postdoctoral Researcher)
     
     ### Laboratory
     **Biophysical Mass Spectrometry (BMS) Lab**  
-    *National Dong Hwa University (NDHU)*  
-    *Hualien, Taiwan*
+    National Dong Hwa University (NDHU)  
+    Hualien, Taiwan  
+    
+    Lab Members & Research Group:  
+    https://faculty.ndhu.edu.tw/~PENGW/members/
     
     ---
-    For scientific inquiries, data analysis algorithms, or technical support regarding MALDI-TOF MS spectral preprocessing and machine learning diagnosis, please reach out to the laboratory.
+    For scientific inquiries, data analysis algorithms, or technical support regarding MALDI-TOF MS spectral preprocessing and machine learning diagnosis, please contact the development team or the BMS laboratory.
     """)
 
 def main():
